@@ -6,7 +6,7 @@
     </head>
     <body>
         <referenceContainer name="content">
-            <block class="Joueclub\MyModule\Block\MyModule" name="mymodule" template="Joueclub_MyModule::mymodule.phtml" />
+            <block class="Asyr\MyModule\Block\MyModule" name="mymodule" template="Asyr_MyModule::mymodule.phtml" />
         </referenceContainer>
     </body>
 </page>
