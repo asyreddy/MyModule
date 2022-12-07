@@ -1,6 +1,6 @@
 <?php
 
-namespace Joueclub\MyModule\Controller\Index;
+namespace Asyr\MyModule\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
 
