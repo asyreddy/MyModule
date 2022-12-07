@@ -1,6 +1,6 @@
 <?php
 
-namespace Joueclub\MyModule\Block;
+namespace Asyr\MyModule\Block;
 
 use Magento\Framework\View\Element\Template;
 
